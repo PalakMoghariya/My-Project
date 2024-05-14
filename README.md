@@ -1,4 +1,4 @@
 # My-Project
 My First Git Project
 <br>
-Author: Palak Moghariya
+Author: Palak Moghariya(Genius Infotech)
